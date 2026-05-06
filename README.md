@@ -19,7 +19,8 @@ This project analyzes global land temperature trends and climate change patterns
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-
+- seaborn
+  
 ---
 
 ## Key Insights
